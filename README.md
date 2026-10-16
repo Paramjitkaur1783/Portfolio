@@ -1,7 +1,7 @@
 # Hi, I'm Paramjit Kaur 👋
 **Technical Writer | API & Engineering Documentation**
 I turn complex engineering concepts into clear, usable documentation.
-10+ years explaining electronics, embedded systems,now
+10+ years explaining electronics subjects, embedded systems,now
 focused on technical writing.
 
 ## Tools
